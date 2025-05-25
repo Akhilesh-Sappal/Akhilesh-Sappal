@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="">
 
-- 🌱 I’m currently learning **Pythhttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRja2g5a21pdGxxYTBrYjl3aWs2Njg1aW85dHBnbXA4cnp2cngxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gifon**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **akhileshcodes.tech@gmail.com**
 
