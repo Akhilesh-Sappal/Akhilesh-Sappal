@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Sappal</h1>
 <h3 align="center">A passionate Python Enthusiast from India</h3>
 
-<p align="right"> <img src="https://media.tenor.com/kxiro8Eecb8AAAAM/coding.gif">
+<p align="center"> <img src="https://media.tenor.com/kxiro8Eecb8AAAAM/coding.gif">
 
 - 🌱 I’m currently learning **Python**
 
