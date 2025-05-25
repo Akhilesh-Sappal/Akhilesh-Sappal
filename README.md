@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Sappal</h1>
 <h3 align="center">A passionate Python Enthusiast from India</h3>
 
-<p align="center"> <img src="[https://media.tenor.com/kxiro8Eecb8AAAAM/coding.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRja2g5a21pdGxxYTBrYjl3aWs2Njg1aW85dHBnbXA4cnp2cngxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)">
+<p align="center"> <img src="https://i.giphy.com/coxQHKASG60HrHtvkt.webp">
 
 - 🌱 I’m currently learning **Python**
 
