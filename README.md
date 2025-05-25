@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Sappal</h1>
 <h3 align="center">A passionate Python Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Jwcm4ydTF3ZzFkMWlsNjIxaGtpdmkwYzlqdTBoOWdiMWN1MWV2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZvdWZ1cHljNXJzM2dsaG03ZG80YnM1bTZuaDI0N3N1dG5pYmhhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif)">
+<p align="left"> <img src="">
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Pythhttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRja2g5a21pdGxxYTBrYjl3aWs2Njg1aW85dHBnbXA4cnp2cngxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gifon**
 
 - 📫 How to reach me **akhileshcodes.tech@gmail.com**
 
