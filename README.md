@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Sappal</h1>
 <h3 align="center">A passionate Python Enthusiast from India</h3>
 
-<p align="left"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ0eHJvbW9pNzc2N3M0OHc3ZmVjZGdrYmQzYTdmcWowMDVoY3FiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Jwcm4ydTF3ZzFkMWlsNjIxaGtpdmkwYzlqdTBoOWdiMWN1MWV2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZvdWZ1cHljNXJzM2dsaG03ZG80YnM1bTZuaDI0N3N1dG5pYmhhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif)">
 
 - 🌱 I’m currently learning **Python**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I enjoy writing clean, efficient Python code almost as much as finding the perfect variable name.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
